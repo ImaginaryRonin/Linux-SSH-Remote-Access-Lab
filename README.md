@@ -1,2 +1,2 @@
-# AI-Assisted Scheduling App
-A full-stack scheduling app with user accounts, CRUD tasks, and AI-assisted planning. Integrates external APIs, handles data persistence, and focuses on usability. Demonstrates system design, API integration, and real-world application logic.
+# Linux SSH, SFTP, and Remote Administration Guide
+Control Linux systems remotely instead of working directly inside each virtual machine. Connect CentOS Stream 9 / RHEL 9-adjacent and other Linux distributions from Windows with MobaXterm, transfer files through SFTP, and use SSH keys to create secure passwordless connections between systems.
